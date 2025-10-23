@@ -9,6 +9,8 @@
 - **팀 구성**: 3인 (AI 모델 개발 2인, 언리얼 엔진 개발 1인)
 - **담당 역할**: 언리얼 엔진 내 EasyVehicle, EasyVehicleMovementComponent 개발
 
+- [AI Model Repojitory](https://github.com/Noperi0r/KartML_Python)
+- [NDC22-데이터분석 '카트라이더: 드리프트' 머신러닝을 활용한 위치 예측 개선](https://youtu.be/a80r9WqnECk?si=R5uNCnONnwgUIzby)
 ---
 
 ### 🎯 프로젝트 목표
